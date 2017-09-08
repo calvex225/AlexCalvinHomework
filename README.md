@@ -1,5 +1,7 @@
 #AlexCalvinHomework
 
+# MY MEST HOMEWORK
+
 Hello !
 It's the **README** of my personal *Web portfolio*. It's an exercise at Meltwater Entrepreneurial School of Technologie [**MEST**](http://meltwater.org?)
 
@@ -22,7 +24,7 @@ I'm a Entrepreneur In Training *EIT* at **MEST**, I want to achieve some compete
 On this Portfolio there are, like page :
 
 PAGES | DESCRIPTION
--------------------
+------|------------
 index.html | It's my homepage
 me.html | My about page to show somes informations aboiut me
 contact.html | Get in touch... Contact me
@@ -30,3 +32,8 @@ contact.html | Get in touch... Contact me
 ![My picture](img/alex14.jpg)
 
 So, I think you know all about my work :+1:
+
+### ON SOCIALS MEDIA
+1- [Linkedin](https://www.linkedin.com/in/agbetie)
+2- [Twitter](https://www.twitter.com/alexgbetie)
+3- [E-mail](mailto:alex.gbetie@meltwater.org)
