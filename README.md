@@ -34,6 +34,6 @@ contact.html | Get in touch... Contact me
 So, I think you know all about my work :+1:
 
 ### ON SOCIALS MEDIA
-1- [Linkedin](https://www.linkedin.com/in/agbetie)
-2- [Twitter](https://www.twitter.com/alexgbetie)
-3- [E-mail](mailto:alex.gbetie@meltwater.org)
+1. [Linkedin](https://www.linkedin.com/in/agbetie)
+1. [Twitter](https://www.twitter.com/alexgbetie)
+1. [E-mail](mailto:alex.gbetie@meltwater.org)
